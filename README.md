@@ -1,7 +1,7 @@
 # Quin Standard Draft Sources
 
 ## Introduction
-**Quin** language is a programming language providing high level abstaction for general purpose computation. Target platforms include CPUs, GPUs, DSPs, FPGAs and other processors or hardware accelerators.
+**Quin** language is a programming language providing high level abstraction for general purpose computation. Target platforms include CPUs, GPUs, DSPs, FPGAs and other processors or hardware accelerators.
 
 **Quin** language aims to make general purpose computation much easier, so that people don't need to be expert in low level hardware APIs before they want to run their code on specific hardware.
 
